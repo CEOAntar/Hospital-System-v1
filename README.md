@@ -30,7 +30,7 @@ Prerequisites
 
 Installation
 1. Clone the repo
-   git clone https://github.com/your_username/hospital-management-system.git
+   git clone https://github.com/CEOAntar/Hospital-System-v1
 2. Navigate to the project directory
    cd hospital-management-system
 3. Compile the code
@@ -41,10 +41,11 @@ Installation
 📫 Contact
 Mohamed Antar - https://www.linkedin.com/in/mohamed-antar-672433328/ - moemad819@gmail.com
 
-Project Link: https://github.com/your_username/hospital-management-system
+Project Link: https://github.com/CEOAntar/Hospital-System-v1
 
 🙏 Acknowledgments
-- Dr @Mostafa Saad Ibrahim for his incredible course and guidance.
+- Special thanks to [@DrMostafaSaad](https://github.com/mostafa-saad) for his inspiring and insightful programming basics course on Udemy.
+
 
 
  
